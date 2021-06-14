@@ -21,6 +21,6 @@ export default [
         include: /node_modules/
       })
     ],
-    external: ['react', 'react-dom', 'prop-types', 'styled-components', 'react-native'],
+    external: ['react', 'react-dom', 'prop-types', 'styled-components'],
   },
 ];
